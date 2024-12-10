@@ -1,0 +1,16 @@
+{
+  "name": "asylum-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --host 0.0.0.0 --port 3030"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "json-server-api": "^0.0.2"
+  }
+}

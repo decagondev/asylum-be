@@ -1,0 +1,2479 @@
+{
+  "fiscalSummary": {
+    "totalCases": 50000,
+    "granted": 31.20767064911346,
+    "totalGranted": 12303,
+    "denied": 27120,
+    "adminClosed": 10452,
+    "asylumTerminated": 42,
+    "closedNacaraGrant": 83,
+    "yearResults": [
+        {
+            "fiscal_year": "2015",
+            "totalCases": 1125,
+            "granted": 45.8377239199157,
+            "totalGranted": 435,
+            "denied": 514,
+            "adminClosed": 175,
+            "asylumTerminated": 0,
+            "closedNacaraGrant": 1,
+            "yearData": [
+                {
+                    "office": "New Orleans, LA",
+                    "totalCases": 12,
+                    "granted": 11.11111111111111,
+                    "totalGranted": 1,
+                    "denied": 8,
+                    "adminClosed": 3,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Chicago, IL",
+                    "totalCases": 52,
+                    "granted": 40,
+                    "totalGranted": 20,
+                    "denied": 30,
+                    "adminClosed": 2,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Boston, MA",
+                    "totalCases": 48,
+                    "granted": 27.27272727272727,
+                    "totalGranted": 9,
+                    "denied": 24,
+                    "adminClosed": 15,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Newark, NJ",
+                    "totalCases": 104,
+                    "granted": 41.66666666666667,
+                    "totalGranted": 35,
+                    "denied": 49,
+                    "adminClosed": 20,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "New York, NY",
+                    "totalCases": 252,
+                    "granted": 20.25862068965517,
+                    "totalGranted": 47,
+                    "denied": 185,
+                    "adminClosed": 20,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Houston, TX",
+                    "totalCases": 51,
+                    "granted": 44,
+                    "totalGranted": 11,
+                    "denied": 14,
+                    "adminClosed": 26,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Los Angeles, CA",
+                    "totalCases": 251,
+                    "granted": 65,
+                    "totalGranted": 130,
+                    "denied": 70,
+                    "adminClosed": 50,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Arlington, VA",
+                    "totalCases": 111,
+                    "granted": 54.285714285714285,
+                    "totalGranted": 57,
+                    "denied": 48,
+                    "adminClosed": 6,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Miami, FL",
+                    "totalCases": 106,
+                    "granted": 32.22222222222222,
+                    "totalGranted": 29,
+                    "denied": 61,
+                    "adminClosed": 16,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "San Francisco, CA",
+                    "totalCases": 138,
+                    "granted": 79.33884297520662,
+                    "totalGranted": 96,
+                    "denied": 25,
+                    "adminClosed": 17,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                }
+            ]
+        },
+        {
+            "fiscal_year": "2016",
+            "totalCases": 4945,
+            "granted": 45.130702203997956,
+            "totalGranted": 1761,
+            "denied": 2141,
+            "adminClosed": 1008,
+            "asylumTerminated": 7,
+            "closedNacaraGrant": 28,
+            "yearData": [
+                {
+                    "office": "New Orleans, LA",
+                    "totalCases": 175,
+                    "granted": 34.899328859060404,
+                    "totalGranted": 52,
+                    "denied": 97,
+                    "adminClosed": 25,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Chicago, IL",
+                    "totalCases": 352,
+                    "granted": 36.496350364963504,
+                    "totalGranted": 100,
+                    "denied": 174,
+                    "adminClosed": 76,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "Boston, MA",
+                    "totalCases": 160,
+                    "granted": 24.561403508771928,
+                    "totalGranted": 28,
+                    "denied": 86,
+                    "adminClosed": 44,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Newark, NJ",
+                    "totalCases": 626,
+                    "granted": 45.850622406639005,
+                    "totalGranted": 221,
+                    "denied": 261,
+                    "adminClosed": 142,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "New York, NY",
+                    "totalCases": 886,
+                    "granted": 16.951379763469117,
+                    "totalGranted": 129,
+                    "denied": 632,
+                    "adminClosed": 122,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Houston, TX",
+                    "totalCases": 230,
+                    "granted": 44.966442953020135,
+                    "totalGranted": 67,
+                    "denied": 82,
+                    "adminClosed": 80,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Los Angeles, CA",
+                    "totalCases": 953,
+                    "granted": 62.7172195892575,
+                    "totalGranted": 397,
+                    "denied": 236,
+                    "adminClosed": 304,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 16
+                },
+                {
+                    "office": "Arlington, VA",
+                    "totalCases": 421,
+                    "granted": 46.504559270516715,
+                    "totalGranted": 153,
+                    "denied": 176,
+                    "adminClosed": 87,
+                    "asylumTerminated": 3,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "Miami, FL",
+                    "totalCases": 427,
+                    "granted": 37.05882352941177,
+                    "totalGranted": 126,
+                    "denied": 214,
+                    "adminClosed": 85,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "San Francisco, CA",
+                    "totalCases": 715,
+                    "granted": 72.72727272727273,
+                    "totalGranted": 488,
+                    "denied": 183,
+                    "adminClosed": 43,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                }
+            ]
+        },
+        {
+            "fiscal_year": "2017",
+            "totalCases": 9100,
+            "granted": 31.1865312667023,
+            "totalGranted": 2334,
+            "denied": 5150,
+            "adminClosed": 1591,
+            "asylumTerminated": 7,
+            "closedNacaraGrant": 18,
+            "yearData": [
+                {
+                    "office": "New Orleans, LA",
+                    "totalCases": 333,
+                    "granted": 50.179211469534046,
+                    "totalGranted": 140,
+                    "denied": 139,
+                    "adminClosed": 52,
+                    "asylumTerminated": 1,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Chicago, IL",
+                    "totalCases": 513,
+                    "granted": 32,
+                    "totalGranted": 128,
+                    "denied": 272,
+                    "adminClosed": 112,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Boston, MA",
+                    "totalCases": 264,
+                    "granted": 16.113744075829384,
+                    "totalGranted": 34,
+                    "denied": 177,
+                    "adminClosed": 52,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Newark, NJ",
+                    "totalCases": 1504,
+                    "granted": 22.553516819571865,
+                    "totalGranted": 295,
+                    "denied": 1013,
+                    "adminClosed": 196,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "New York, NY",
+                    "totalCases": 1560,
+                    "granted": 10.473457675753227,
+                    "totalGranted": 146,
+                    "denied": 1248,
+                    "adminClosed": 162,
+                    "asylumTerminated": 3,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Houston, TX",
+                    "totalCases": 516,
+                    "granted": 22.871046228710462,
+                    "totalGranted": 94,
+                    "denied": 317,
+                    "adminClosed": 105,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Los Angeles, CA",
+                    "totalCases": 2155,
+                    "granted": 48.027127003699135,
+                    "totalGranted": 779,
+                    "denied": 843,
+                    "adminClosed": 526,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 7
+                },
+                {
+                    "office": "Arlington, VA",
+                    "totalCases": 616,
+                    "granted": 32.88718929254302,
+                    "totalGranted": 172,
+                    "denied": 351,
+                    "adminClosed": 84,
+                    "asylumTerminated": 3,
+                    "closedNacaraGrant": 6
+                },
+                {
+                    "office": "Miami, FL",
+                    "totalCases": 641,
+                    "granted": 21.019108280254777,
+                    "totalGranted": 99,
+                    "denied": 372,
+                    "adminClosed": 169,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "San Francisco, CA",
+                    "totalCases": 998,
+                    "granted": 51.676300578034684,
+                    "totalGranted": 447,
+                    "denied": 418,
+                    "adminClosed": 133,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                }
+            ]
+        },
+        {
+            "fiscal_year": "2018",
+            "totalCases": 13055,
+            "granted": 29.565944790408032,
+            "totalGranted": 3181,
+            "denied": 7578,
+            "adminClosed": 2270,
+            "asylumTerminated": 6,
+            "closedNacaraGrant": 20,
+            "yearData": [
+                {
+                    "office": "New Orleans, LA",
+                    "totalCases": 483,
+                    "granted": 65.57788944723619,
+                    "totalGranted": 261,
+                    "denied": 137,
+                    "adminClosed": 85,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Chicago, IL",
+                    "totalCases": 936,
+                    "granted": 45.49180327868852,
+                    "totalGranted": 333,
+                    "denied": 399,
+                    "adminClosed": 201,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Boston, MA",
+                    "totalCases": 359,
+                    "granted": 15.436241610738255,
+                    "totalGranted": 46,
+                    "denied": 252,
+                    "adminClosed": 58,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Newark, NJ",
+                    "totalCases": 1957,
+                    "granted": 23.70458606313282,
+                    "totalGranted": 398,
+                    "denied": 1281,
+                    "adminClosed": 277,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "New York, NY",
+                    "totalCases": 2067,
+                    "granted": 10.382830626450117,
+                    "totalGranted": 179,
+                    "denied": 1545,
+                    "adminClosed": 337,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 4
+                },
+                {
+                    "office": "Houston, TX",
+                    "totalCases": 786,
+                    "granted": 24.416796267496114,
+                    "totalGranted": 157,
+                    "denied": 486,
+                    "adminClosed": 141,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "Los Angeles, CA",
+                    "totalCases": 2191,
+                    "granted": 40.192743764172334,
+                    "totalGranted": 709,
+                    "denied": 1055,
+                    "adminClosed": 423,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 4
+                },
+                {
+                    "office": "Arlington, VA",
+                    "totalCases": 782,
+                    "granted": 24.914675767918087,
+                    "totalGranted": 146,
+                    "denied": 440,
+                    "adminClosed": 191,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 5
+                },
+                {
+                    "office": "Miami, FL",
+                    "totalCases": 2277,
+                    "granted": 23.149171270718234,
+                    "totalGranted": 419,
+                    "denied": 1391,
+                    "adminClosed": 467,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "San Francisco, CA",
+                    "totalCases": 1217,
+                    "granted": 47.37777777777778,
+                    "totalGranted": 533,
+                    "denied": 592,
+                    "adminClosed": 90,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 2
+                }
+            ]
+        },
+        {
+            "fiscal_year": "2019",
+            "totalCases": 11361,
+            "granted": 28.474215842636895,
+            "totalGranted": 2678,
+            "denied": 6727,
+            "adminClosed": 1942,
+            "asylumTerminated": 11,
+            "closedNacaraGrant": 3,
+            "yearData": [
+                {
+                    "office": "New Orleans, LA",
+                    "totalCases": 199,
+                    "granted": 50,
+                    "totalGranted": 66,
+                    "denied": 66,
+                    "adminClosed": 66,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Chicago, IL",
+                    "totalCases": 1154,
+                    "granted": 39.97955010224949,
+                    "totalGranted": 391,
+                    "denied": 587,
+                    "adminClosed": 176,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Boston, MA",
+                    "totalCases": 337,
+                    "granted": 19.158878504672895,
+                    "totalGranted": 41,
+                    "denied": 173,
+                    "adminClosed": 122,
+                    "asylumTerminated": 1,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Newark, NJ",
+                    "totalCases": 1786,
+                    "granted": 27.088607594936708,
+                    "totalGranted": 428,
+                    "denied": 1152,
+                    "adminClosed": 206,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "New York, NY",
+                    "totalCases": 2025,
+                    "granted": 8.119158878504674,
+                    "totalGranted": 139,
+                    "denied": 1573,
+                    "adminClosed": 313,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Houston, TX",
+                    "totalCases": 601,
+                    "granted": 33.26885880077369,
+                    "totalGranted": 172,
+                    "denied": 345,
+                    "adminClosed": 84,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Los Angeles, CA",
+                    "totalCases": 1884,
+                    "granted": 42.209072978303745,
+                    "totalGranted": 642,
+                    "denied": 879,
+                    "adminClosed": 361,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Arlington, VA",
+                    "totalCases": 422,
+                    "granted": 18.658892128279884,
+                    "totalGranted": 64,
+                    "denied": 279,
+                    "adminClosed": 77,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Miami, FL",
+                    "totalCases": 1873,
+                    "granted": 14.465408805031446,
+                    "totalGranted": 207,
+                    "denied": 1224,
+                    "adminClosed": 435,
+                    "asylumTerminated": 6,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "San Francisco, CA",
+                    "totalCases": 1080,
+                    "granted": 54.042988741044006,
+                    "totalGranted": 528,
+                    "denied": 449,
+                    "adminClosed": 102,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                }
+            ]
+        },
+        {
+            "fiscal_year": "2020",
+            "totalCases": 7703,
+            "granted": 27.378867483946294,
+            "totalGranted": 1407,
+            "denied": 3732,
+            "adminClosed": 2544,
+            "asylumTerminated": 11,
+            "closedNacaraGrant": 9,
+            "yearData": [
+                {
+                    "office": "New Orleans, LA",
+                    "totalCases": 236,
+                    "granted": 33.56643356643357,
+                    "totalGranted": 48,
+                    "denied": 95,
+                    "adminClosed": 93,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Chicago, IL",
+                    "totalCases": 1080,
+                    "granted": 28.114663726571116,
+                    "totalGranted": 255,
+                    "denied": 652,
+                    "adminClosed": 172,
+                    "asylumTerminated": 1,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Boston, MA",
+                    "totalCases": 281,
+                    "granted": 11.971830985915492,
+                    "totalGranted": 17,
+                    "denied": 125,
+                    "adminClosed": 138,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                },
+                {
+                    "office": "Newark, NJ",
+                    "totalCases": 904,
+                    "granted": 26.856240126382307,
+                    "totalGranted": 170,
+                    "denied": 463,
+                    "adminClosed": 267,
+                    "asylumTerminated": 4,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "New York, NY",
+                    "totalCases": 1006,
+                    "granted": 4.502046384720328,
+                    "totalGranted": 33,
+                    "denied": 700,
+                    "adminClosed": 273,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Houston, TX",
+                    "totalCases": 723,
+                    "granted": 17.660550458715598,
+                    "totalGranted": 77,
+                    "denied": 359,
+                    "adminClosed": 285,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "Los Angeles, CA",
+                    "totalCases": 921,
+                    "granted": 51.25553914327917,
+                    "totalGranted": 347,
+                    "denied": 330,
+                    "adminClosed": 240,
+                    "asylumTerminated": 2,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "Arlington, VA",
+                    "totalCases": 788,
+                    "granted": 25.102040816326532,
+                    "totalGranted": 123,
+                    "denied": 367,
+                    "adminClosed": 292,
+                    "asylumTerminated": 4,
+                    "closedNacaraGrant": 2
+                },
+                {
+                    "office": "Miami, FL",
+                    "totalCases": 1023,
+                    "granted": 19.801980198019802,
+                    "totalGranted": 100,
+                    "denied": 405,
+                    "adminClosed": 518,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "San Francisco, CA",
+                    "totalCases": 741,
+                    "granted": 50.10570824524313,
+                    "totalGranted": 237,
+                    "denied": 236,
+                    "adminClosed": 266,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 2
+                }
+            ]
+        },
+        {
+            "fiscal_year": "2021",
+            "totalCases": 2711,
+            "granted": 28.403361344537814,
+            "totalGranted": 507,
+            "denied": 1278,
+            "adminClosed": 922,
+            "asylumTerminated": 0,
+            "closedNacaraGrant": 4,
+            "yearData": [
+                {
+                    "office": "New Orleans, LA",
+                    "totalCases": 161,
+                    "granted": 43.80952380952381,
+                    "totalGranted": 46,
+                    "denied": 59,
+                    "adminClosed": 56,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Chicago, IL",
+                    "totalCases": 376,
+                    "granted": 31,
+                    "totalGranted": 93,
+                    "denied": 207,
+                    "adminClosed": 76,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Boston, MA",
+                    "totalCases": 95,
+                    "granted": 12.676056338028168,
+                    "totalGranted": 9,
+                    "denied": 62,
+                    "adminClosed": 24,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Newark, NJ",
+                    "totalCases": 155,
+                    "granted": 43.44262295081967,
+                    "totalGranted": 53,
+                    "denied": 69,
+                    "adminClosed": 33,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "New York, NY",
+                    "totalCases": 409,
+                    "granted": 6.578947368421052,
+                    "totalGranted": 20,
+                    "denied": 284,
+                    "adminClosed": 105,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Houston, TX",
+                    "totalCases": 263,
+                    "granted": 19.852941176470587,
+                    "totalGranted": 27,
+                    "denied": 109,
+                    "adminClosed": 127,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Los Angeles, CA",
+                    "totalCases": 367,
+                    "granted": 34.10138248847927,
+                    "totalGranted": 74,
+                    "denied": 143,
+                    "adminClosed": 147,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 3
+                },
+                {
+                    "office": "Arlington, VA",
+                    "totalCases": 314,
+                    "granted": 37.4468085106383,
+                    "totalGranted": 88,
+                    "denied": 147,
+                    "adminClosed": 79,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "Miami, FL",
+                    "totalCases": 369,
+                    "granted": 13.924050632911392,
+                    "totalGranted": 22,
+                    "denied": 136,
+                    "adminClosed": 211,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 0
+                },
+                {
+                    "office": "San Francisco, CA",
+                    "totalCases": 202,
+                    "granted": 54.74452554744526,
+                    "totalGranted": 75,
+                    "denied": 62,
+                    "adminClosed": 64,
+                    "asylumTerminated": 0,
+                    "closedNacaraGrant": 1
+                }
+            ]
+        }
+    ]
+},
+  "citizenshipSummary": [
+    {
+        "citizenship": "SINGAPORE",
+        "totalCases": 3,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 2,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ARGENTINA",
+        "totalCases": 22,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 9,
+        "adminClosed": 13,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NORTH MACEDONIA",
+        "totalCases": 17,
+        "granted": 21.428571428571427,
+        "totalGranted": 3,
+        "denied": 11,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "EL SALVADOR",
+        "totalCases": 4797,
+        "granted": 26.92103868574457,
+        "totalGranted": 1016,
+        "denied": 2758,
+        "adminClosed": 977,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 46
+    },
+    {
+        "citizenship": "BOSNIA-HERZEGOVINA",
+        "totalCases": 19,
+        "granted": 43.75,
+        "totalGranted": 7,
+        "denied": 9,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CÃ”TE D'IVOIRE",
+        "totalCases": 94,
+        "granted": 27.848101265822784,
+        "totalGranted": 22,
+        "denied": 57,
+        "adminClosed": 15,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "LEBANON",
+        "totalCases": 62,
+        "granted": 30.23255813953488,
+        "totalGranted": 13,
+        "denied": 30,
+        "adminClosed": 19,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "FIJI",
+        "totalCases": 17,
+        "granted": 5.88235294117647,
+        "totalGranted": 1,
+        "denied": 16,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "UNKNOWN",
+        "totalCases": 8,
+        "granted": 57.14285714285714,
+        "totalGranted": 4,
+        "denied": 3,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SERBIA AND MONTENEGRO",
+        "totalCases": 55,
+        "granted": 40.909090909090914,
+        "totalGranted": 18,
+        "denied": 26,
+        "adminClosed": 11,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ZAMBIA",
+        "totalCases": 13,
+        "granted": 54.54545454545454,
+        "totalGranted": 6,
+        "denied": 5,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MONGOLIA",
+        "totalCases": 88,
+        "granted": 23.076923076923077,
+        "totalGranted": 18,
+        "denied": 60,
+        "adminClosed": 10,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SEYCHELLES",
+        "totalCases": 1,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MALI",
+        "totalCases": 51,
+        "granted": 44.18604651162791,
+        "totalGranted": 19,
+        "denied": 24,
+        "adminClosed": 8,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MONTENEGRO",
+        "totalCases": 33,
+        "granted": 17.24137931034483,
+        "totalGranted": 5,
+        "denied": 24,
+        "adminClosed": 4,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "LATVIA",
+        "totalCases": 7,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 3,
+        "adminClosed": 4,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BOLIVIA",
+        "totalCases": 22,
+        "granted": 11.11111111111111,
+        "totalGranted": 2,
+        "denied": 16,
+        "adminClosed": 4,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TRINIDAD AND TOBAGO",
+        "totalCases": 19,
+        "granted": 23.52941176470588,
+        "totalGranted": 4,
+        "denied": 13,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "PAKISTAN",
+        "totalCases": 405,
+        "granted": 50.44776119402985,
+        "totalGranted": 169,
+        "denied": 166,
+        "adminClosed": 70,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "KUWAIT",
+        "totalCases": 8,
+        "granted": 60,
+        "totalGranted": 3,
+        "denied": 2,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TANZANIA",
+        "totalCases": 5,
+        "granted": 25,
+        "totalGranted": 1,
+        "denied": 3,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "KENYA",
+        "totalCases": 173,
+        "granted": 39.69465648854962,
+        "totalGranted": 52,
+        "denied": 79,
+        "adminClosed": 42,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GUINEA",
+        "totalCases": 102,
+        "granted": 34.48275862068966,
+        "totalGranted": 30,
+        "denied": 57,
+        "adminClosed": 15,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "HAITI",
+        "totalCases": 836,
+        "granted": 18.082788671023962,
+        "totalGranted": 83,
+        "denied": 376,
+        "adminClosed": 376,
+        "asylumTerminated": 1,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "JAPAN",
+        "totalCases": 12,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 9,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BANGLADESH",
+        "totalCases": 321,
+        "granted": 11.194029850746269,
+        "totalGranted": 30,
+        "denied": 238,
+        "adminClosed": 53,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "VENEZUELA",
+        "totalCases": 4751,
+        "granted": 35.94272076372315,
+        "totalGranted": 1506,
+        "denied": 2684,
+        "adminClosed": 559,
+        "asylumTerminated": 2,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SWAZILAND",
+        "totalCases": 2,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CAMEROON",
+        "totalCases": 254,
+        "granted": 49.5,
+        "totalGranted": 99,
+        "denied": 101,
+        "adminClosed": 48,
+        "asylumTerminated": 6,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ST. VINCENT-GRENADINES",
+        "totalCases": 1,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ALGERIA",
+        "totalCases": 23,
+        "granted": 45,
+        "totalGranted": 9,
+        "denied": 11,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "PORTUGAL",
+        "totalCases": 19,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 4,
+        "adminClosed": 15,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "THE GAMBIA",
+        "totalCases": 113,
+        "granted": 48.421052631578945,
+        "totalGranted": 46,
+        "denied": 49,
+        "adminClosed": 18,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SOMALIA",
+        "totalCases": 33,
+        "granted": 84,
+        "totalGranted": 21,
+        "denied": 4,
+        "adminClosed": 8,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MAURITANIA",
+        "totalCases": 119,
+        "granted": 39.795918367346935,
+        "totalGranted": 39,
+        "denied": 59,
+        "adminClosed": 21,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SENEGAL",
+        "totalCases": 51,
+        "granted": 25.581395348837212,
+        "totalGranted": 11,
+        "denied": 32,
+        "adminClosed": 8,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BURMA",
+        "totalCases": 143,
+        "granted": 29.92125984251969,
+        "totalGranted": 38,
+        "denied": 89,
+        "adminClosed": 16,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "UNITED KINGDOM",
+        "totalCases": 5,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "THAILAND",
+        "totalCases": 36,
+        "granted": 35.714285714285715,
+        "totalGranted": 5,
+        "denied": 9,
+        "adminClosed": 22,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CHAD",
+        "totalCases": 17,
+        "granted": 21.428571428571427,
+        "totalGranted": 3,
+        "denied": 11,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ANGOLA",
+        "totalCases": 85,
+        "granted": 21.62162162162162,
+        "totalGranted": 16,
+        "denied": 58,
+        "adminClosed": 11,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TONGA",
+        "totalCases": 2,
+        "granted": 100,
+        "totalGranted": 2,
+        "denied": 0,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ZIMBABWE",
+        "totalCases": 78,
+        "granted": 57.971014492753625,
+        "totalGranted": 40,
+        "denied": 29,
+        "adminClosed": 9,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BAHAMAS",
+        "totalCases": 5,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 3,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "AUSTRIA",
+        "totalCases": 2,
+        "granted": 100,
+        "totalGranted": 1,
+        "denied": 0,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BELARUS",
+        "totalCases": 181,
+        "granted": 42.384105960264904,
+        "totalGranted": 64,
+        "denied": 87,
+        "adminClosed": 30,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "AFGHANISTAN",
+        "totalCases": 99,
+        "granted": 55.42168674698795,
+        "totalGranted": 46,
+        "denied": 37,
+        "adminClosed": 15,
+        "asylumTerminated": 1,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "URUGUAY",
+        "totalCases": 11,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 8,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "PARAGUAY",
+        "totalCases": 10,
+        "granted": 11.11111111111111,
+        "totalGranted": 1,
+        "denied": 8,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SRI LANKA",
+        "totalCases": 143,
+        "granted": 18.4,
+        "totalGranted": 23,
+        "denied": 102,
+        "adminClosed": 18,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BRUNEI",
+        "totalCases": 1,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BAHRAIN",
+        "totalCases": 2,
+        "granted": 100,
+        "totalGranted": 2,
+        "denied": 0,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ECUADOR",
+        "totalCases": 1446,
+        "granted": 3.9452495974235107,
+        "totalGranted": 49,
+        "denied": 1193,
+        "adminClosed": 203,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 1
+    },
+    {
+        "citizenship": "DOMINICAN REPUBLIC",
+        "totalCases": 49,
+        "granted": 5.88235294117647,
+        "totalGranted": 2,
+        "denied": 32,
+        "adminClosed": 15,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ST. LUCIA",
+        "totalCases": 1,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "KAZAKHSTAN",
+        "totalCases": 195,
+        "granted": 38.72832369942196,
+        "totalGranted": 67,
+        "denied": 106,
+        "adminClosed": 22,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CAPE VERDE",
+        "totalCases": 2,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GUINEA-BISSAU",
+        "totalCases": 2,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MOLDOVA",
+        "totalCases": 133,
+        "granted": 37.89473684210527,
+        "totalGranted": 36,
+        "denied": 59,
+        "adminClosed": 38,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "UGANDA",
+        "totalCases": 229,
+        "granted": 43.39622641509434,
+        "totalGranted": 92,
+        "denied": 120,
+        "adminClosed": 17,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "AZERBAIJAN",
+        "totalCases": 70,
+        "granted": 57.407407407407405,
+        "totalGranted": 31,
+        "denied": 23,
+        "adminClosed": 16,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "STATELESS",
+        "totalCases": 139,
+        "granted": 37.62376237623762,
+        "totalGranted": 38,
+        "denied": 63,
+        "adminClosed": 36,
+        "asylumTerminated": 2,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GUYANA",
+        "totalCases": 55,
+        "granted": 6.382978723404255,
+        "totalGranted": 3,
+        "denied": 44,
+        "adminClosed": 8,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "AUSTRALIA",
+        "totalCases": 2,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "DOMINICA",
+        "totalCases": 3,
+        "granted": 50,
+        "totalGranted": 1,
+        "denied": 1,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "JORDAN",
+        "totalCases": 205,
+        "granted": 30.666666666666664,
+        "totalGranted": 46,
+        "denied": 104,
+        "adminClosed": 55,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NAMIBIA",
+        "totalCases": 1,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "FRANCE",
+        "totalCases": 6,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 6,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SAUDI ARABIA",
+        "totalCases": 88,
+        "granted": 72.85714285714285,
+        "totalGranted": 51,
+        "denied": 19,
+        "adminClosed": 18,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SOUTH KOREA",
+        "totalCases": 18,
+        "granted": 14.285714285714285,
+        "totalGranted": 1,
+        "denied": 6,
+        "adminClosed": 11,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MALAWI",
+        "totalCases": 15,
+        "granted": 38.46153846153847,
+        "totalGranted": 5,
+        "denied": 8,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SERBIA",
+        "totalCases": 35,
+        "granted": 21.875,
+        "totalGranted": 7,
+        "denied": 25,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BENIN",
+        "totalCases": 23,
+        "granted": 23.52941176470588,
+        "totalGranted": 4,
+        "denied": 13,
+        "adminClosed": 6,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TAIWAN",
+        "totalCases": 14,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 8,
+        "adminClosed": 6,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "DENMARK",
+        "totalCases": 1,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "PANAMA",
+        "totalCases": 3,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "LIBYA",
+        "totalCases": 78,
+        "granted": 43.13725490196079,
+        "totalGranted": 22,
+        "denied": 29,
+        "adminClosed": 27,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "HONG KONG",
+        "totalCases": 4,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 2,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "LAOS",
+        "totalCases": 21,
+        "granted": 12.5,
+        "totalGranted": 2,
+        "denied": 14,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TOGO",
+        "totalCases": 60,
+        "granted": 35.294117647058826,
+        "totalGranted": 18,
+        "denied": 33,
+        "adminClosed": 9,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NICARAGUA",
+        "totalCases": 247,
+        "granted": 34.9112426035503,
+        "totalGranted": 59,
+        "denied": 110,
+        "adminClosed": 78,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "IRELAND",
+        "totalCases": 4,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 4,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "LIBERIA",
+        "totalCases": 114,
+        "granted": 40.625,
+        "totalGranted": 39,
+        "denied": 57,
+        "adminClosed": 18,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ISRAEL",
+        "totalCases": 35,
+        "granted": 30,
+        "totalGranted": 6,
+        "denied": 14,
+        "adminClosed": 15,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "POLAND",
+        "totalCases": 76,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 69,
+        "adminClosed": 7,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SWEDEN",
+        "totalCases": 1,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GRENADA",
+        "totalCases": 4,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 2,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BRAZIL",
+        "totalCases": 454,
+        "granted": 21.58273381294964,
+        "totalGranted": 60,
+        "denied": 218,
+        "adminClosed": 176,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "COSTA RICA",
+        "totalCases": 53,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 44,
+        "adminClosed": 9,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MAURITIUS",
+        "totalCases": 3,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 3,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "YEMEN",
+        "totalCases": 109,
+        "granted": 55.55555555555556,
+        "totalGranted": 45,
+        "denied": 36,
+        "adminClosed": 28,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BELGIUM",
+        "totalCases": 2,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "QATAR",
+        "totalCases": 1,
+        "granted": 100,
+        "totalGranted": 1,
+        "denied": 0,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "PERU",
+        "totalCases": 189,
+        "granted": 11.510791366906476,
+        "totalGranted": 16,
+        "denied": 123,
+        "adminClosed": 50,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "IRAQ",
+        "totalCases": 500,
+        "granted": 54.06091370558376,
+        "totalGranted": 213,
+        "denied": 181,
+        "adminClosed": 106,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CAMBODIA",
+        "totalCases": 9,
+        "granted": 28.57142857142857,
+        "totalGranted": 2,
+        "denied": 5,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "COLOMBIA",
+        "totalCases": 665,
+        "granted": 18.75,
+        "totalGranted": 105,
+        "denied": 455,
+        "adminClosed": 105,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "UKRAINE",
+        "totalCases": 587,
+        "granted": 29.812206572769952,
+        "totalGranted": 127,
+        "denied": 299,
+        "adminClosed": 157,
+        "asylumTerminated": 4,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "EGYPT",
+        "totalCases": 874,
+        "granted": 78.45373891001267,
+        "totalGranted": 619,
+        "denied": 170,
+        "adminClosed": 85,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SLOVAKIA",
+        "totalCases": 2,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 2,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "HUNGARY",
+        "totalCases": 30,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 11,
+        "adminClosed": 19,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NEW ZEALAND",
+        "totalCases": 1,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ITALY",
+        "totalCases": 22,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 9,
+        "adminClosed": 13,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GERMANY",
+        "totalCases": 7,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 6,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MOROCCO",
+        "totalCases": 18,
+        "granted": 68.75,
+        "totalGranted": 11,
+        "denied": 5,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NEPAL",
+        "totalCases": 467,
+        "granted": 20.85427135678392,
+        "totalGranted": 83,
+        "denied": 315,
+        "adminClosed": 69,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GREECE",
+        "totalCases": 9,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 8,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CHILE",
+        "totalCases": 15,
+        "granted": 10,
+        "totalGranted": 1,
+        "denied": 9,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "INDIA",
+        "totalCases": 1361,
+        "granted": 14.40071556350626,
+        "totalGranted": 161,
+        "denied": 957,
+        "adminClosed": 243,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "VIETNAM",
+        "totalCases": 59,
+        "granted": 36.58536585365854,
+        "totalGranted": 15,
+        "denied": 26,
+        "adminClosed": 18,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CUBA",
+        "totalCases": 177,
+        "granted": 34.78260869565217,
+        "totalGranted": 8,
+        "denied": 15,
+        "adminClosed": 154,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TUNISIA",
+        "totalCases": 30,
+        "granted": 32,
+        "totalGranted": 8,
+        "denied": 17,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MEXICO",
+        "totalCases": 6753,
+        "granted": 9.972462627852085,
+        "totalGranted": 507,
+        "denied": 4577,
+        "adminClosed": 1669,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "RWANDA",
+        "totalCases": 119,
+        "granted": 50.442477876106196,
+        "totalGranted": 57,
+        "denied": 56,
+        "adminClosed": 6,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NIGER",
+        "totalCases": 32,
+        "granted": 34.48275862068966,
+        "totalGranted": 10,
+        "denied": 19,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GABON",
+        "totalCases": 24,
+        "granted": 4.761904761904762,
+        "totalGranted": 1,
+        "denied": 20,
+        "adminClosed": 2,
+        "asylumTerminated": 1,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BELIZE",
+        "totalCases": 13,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 9,
+        "adminClosed": 4,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CZECHOSLOVAKIA",
+        "totalCases": 4,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 3,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SOUTH SUDAN",
+        "totalCases": 5,
+        "granted": 50,
+        "totalGranted": 2,
+        "denied": 2,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "RUSSIA",
+        "totalCases": 871,
+        "granted": 51.98863636363637,
+        "totalGranted": 366,
+        "denied": 338,
+        "adminClosed": 167,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BURKINA FASO",
+        "totalCases": 241,
+        "granted": 20.361990950226243,
+        "totalGranted": 45,
+        "denied": 176,
+        "adminClosed": 20,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ARMENIA",
+        "totalCases": 112,
+        "granted": 34.02061855670103,
+        "totalGranted": 33,
+        "denied": 64,
+        "adminClosed": 15,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "HONDURAS",
+        "totalCases": 3389,
+        "granted": 28.98671096345515,
+        "totalGranted": 698,
+        "denied": 1710,
+        "adminClosed": 979,
+        "asylumTerminated": 2,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SYRIA",
+        "totalCases": 555,
+        "granted": 73.50993377483444,
+        "totalGranted": 333,
+        "denied": 120,
+        "adminClosed": 102,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SIERRA LEONE",
+        "totalCases": 32,
+        "granted": 44,
+        "totalGranted": 11,
+        "denied": 14,
+        "adminClosed": 5,
+        "asylumTerminated": 2,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NIGERIA",
+        "totalCases": 785,
+        "granted": 22.913719943422915,
+        "totalGranted": 162,
+        "denied": 545,
+        "adminClosed": 78,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NORTH KOREA",
+        "totalCases": 4,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 2,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "UZBEKISTAN",
+        "totalCases": 174,
+        "granted": 37.903225806451616,
+        "totalGranted": 47,
+        "denied": 77,
+        "adminClosed": 50,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SURINAME",
+        "totalCases": 3,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 2,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CHINA, PEOPLE'S REPUBLIC OF",
+        "totalCases": 5760,
+        "granted": 42.78215223097113,
+        "totalGranted": 1956,
+        "denied": 2616,
+        "adminClosed": 1172,
+        "asylumTerminated": 16,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TURKEY",
+        "totalCases": 486,
+        "granted": 82.57918552036199,
+        "totalGranted": 365,
+        "denied": 77,
+        "adminClosed": 44,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "DJIBOUTI",
+        "totalCases": 36,
+        "granted": 65.625,
+        "totalGranted": 21,
+        "denied": 11,
+        "adminClosed": 4,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BOTSWANA",
+        "totalCases": 1,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TURKMENISTAN",
+        "totalCases": 27,
+        "granted": 52,
+        "totalGranted": 13,
+        "denied": 12,
+        "adminClosed": 2,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "IRAN",
+        "totalCases": 346,
+        "granted": 76.34408602150538,
+        "totalGranted": 213,
+        "denied": 66,
+        "adminClosed": 67,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GEORGIA",
+        "totalCases": 133,
+        "granted": 32.38095238095238,
+        "totalGranted": 34,
+        "denied": 71,
+        "adminClosed": 28,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "INDONESIA",
+        "totalCases": 174,
+        "granted": 21.052631578947366,
+        "totalGranted": 32,
+        "denied": 120,
+        "adminClosed": 22,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "DEM REP OF THE CONGO",
+        "totalCases": 152,
+        "granted": 33.57664233576642,
+        "totalGranted": 46,
+        "denied": 91,
+        "adminClosed": 15,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BHUTAN",
+        "totalCases": 19,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 15,
+        "adminClosed": 4,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "JAMAICA",
+        "totalCases": 103,
+        "granted": 60.91954022988506,
+        "totalGranted": 53,
+        "denied": 34,
+        "adminClosed": 16,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "PHILIPPINES",
+        "totalCases": 134,
+        "granted": 5.1020408163265305,
+        "totalGranted": 5,
+        "denied": 93,
+        "adminClosed": 36,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SPAIN",
+        "totalCases": 13,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 6,
+        "adminClosed": 7,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ERITREA",
+        "totalCases": 265,
+        "granted": 83.73015873015873,
+        "totalGranted": 211,
+        "denied": 41,
+        "adminClosed": 13,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CANADA",
+        "totalCases": 3,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 2,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ETHIOPIA",
+        "totalCases": 407,
+        "granted": 65.19174041297934,
+        "totalGranted": 221,
+        "denied": 118,
+        "adminClosed": 68,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BULGARIA",
+        "totalCases": 22,
+        "granted": 26.31578947368421,
+        "totalGranted": 5,
+        "denied": 14,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "MALAYSIA",
+        "totalCases": 35,
+        "granted": 16.666666666666664,
+        "totalGranted": 5,
+        "denied": 25,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GUATEMALA",
+        "totalCases": 5350,
+        "granted": 25.81120943952802,
+        "totalGranted": 1050,
+        "denied": 3018,
+        "adminClosed": 1246,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 36
+    },
+    {
+        "citizenship": "LITHUANIA",
+        "totalCases": 8,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 3,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CROATIA",
+        "totalCases": 5,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 4,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CENTRAL AFRICAN REPUBLIC",
+        "totalCases": 7,
+        "granted": 28.57142857142857,
+        "totalGranted": 2,
+        "denied": 5,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "YUGOSLAVIA",
+        "totalCases": 6,
+        "granted": 83.33333333333334,
+        "totalGranted": 5,
+        "denied": 1,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "UNITED ARAB EMIRATES",
+        "totalCases": 13,
+        "granted": 62.5,
+        "totalGranted": 5,
+        "denied": 3,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "KYRGYZSTAN",
+        "totalCases": 201,
+        "granted": 35.18518518518518,
+        "totalGranted": 57,
+        "denied": 105,
+        "adminClosed": 37,
+        "asylumTerminated": 2,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "NETHERLANDS",
+        "totalCases": 1,
+        "granted": null,
+        "totalGranted": 0,
+        "denied": 0,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "EQUATORIAL GUINEA",
+        "totalCases": 4,
+        "granted": 66.66666666666666,
+        "totalGranted": 2,
+        "denied": 1,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CONGO",
+        "totalCases": 131,
+        "granted": 43.22033898305085,
+        "totalGranted": 51,
+        "denied": 67,
+        "adminClosed": 12,
+        "asylumTerminated": 1,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ALBANIA",
+        "totalCases": 129,
+        "granted": 22.58064516129032,
+        "totalGranted": 21,
+        "denied": 72,
+        "adminClosed": 36,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "USSR",
+        "totalCases": 19,
+        "granted": 27.77777777777778,
+        "totalGranted": 5,
+        "denied": 13,
+        "adminClosed": 1,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "TAJIKISTAN",
+        "totalCases": 38,
+        "granted": 32.25806451612903,
+        "totalGranted": 10,
+        "denied": 21,
+        "adminClosed": 7,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SOUTH AFRICA",
+        "totalCases": 38,
+        "granted": 3.0303030303030303,
+        "totalGranted": 1,
+        "denied": 32,
+        "adminClosed": 5,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "KOREA",
+        "totalCases": 4,
+        "granted": 0,
+        "totalGranted": 0,
+        "denied": 1,
+        "adminClosed": 3,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "ROMANIA",
+        "totalCases": 117,
+        "granted": 13.636363636363635,
+        "totalGranted": 6,
+        "denied": 38,
+        "adminClosed": 73,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "KOSOVO",
+        "totalCases": 87,
+        "granted": 20.27027027027027,
+        "totalGranted": 15,
+        "denied": 59,
+        "adminClosed": 13,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "SUDAN",
+        "totalCases": 99,
+        "granted": 58.666666666666664,
+        "totalGranted": 44,
+        "denied": 31,
+        "adminClosed": 22,
+        "asylumTerminated": 2,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "GHANA",
+        "totalCases": 31,
+        "granted": 25,
+        "totalGranted": 6,
+        "denied": 18,
+        "adminClosed": 7,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "CYPRUS",
+        "totalCases": 2,
+        "granted": 50,
+        "totalGranted": 1,
+        "denied": 1,
+        "adminClosed": 0,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    },
+    {
+        "citizenship": "BURUNDI",
+        "totalCases": 79,
+        "granted": 52.054794520547944,
+        "totalGranted": 38,
+        "denied": 35,
+        "adminClosed": 6,
+        "asylumTerminated": 0,
+        "closedNacaraGrant": 0
+    }
+]
+}
